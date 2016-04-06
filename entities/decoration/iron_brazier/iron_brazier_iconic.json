@@ -1,0 +1,22 @@
+{
+   "mixins": "stonehearth:mixins:item_properties",
+   "type": "entity",
+   "components": {
+      "mob" : {
+         "model_origin" : { "x": -0.5, "y": 0, "z": 0.5 }
+      },
+      "item" : {
+         "category" : "decoration"
+      },
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(iron_brazier.qb)"
+            ]
+         }
+      },
+	  "render_info": {
+         "scale": 0.1
+      }
+   }
+}

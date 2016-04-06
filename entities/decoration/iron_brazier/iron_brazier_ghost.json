@@ -1,0 +1,27 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(iron_brazier.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.6, "y": 0, "z": 0.6 },
+         "region_origin": { "x": 0.6, "y": 0, "z": 0.6 }
+      },
+      "render_info": {
+         "scale": 0.12
+      },
+      "unit_info": {
+         "display_name": "i18n(lodewall-lights:entities.decoration.iron_brazier_ghost.name)",
+         "description": "i18n(lodewall-lights:entities.decoration.iron_brazier_ghost.description)",
+         "icon": "file(iron_brazier.png)"
+      },
+      "stonehearth:material": {
+         "tags": "light_source crafted"
+      }
+   }
+}

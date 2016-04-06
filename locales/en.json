@@ -9,6 +9,11 @@
 			"recipe_name" : "Iron Lantern",
 			"description" : "Bails on the sides protect it from sudden blows. Rust and unwieldiness at no additional cost.",
 			"flavor" : "Feels like old times already."
+		},
+		"iron_brazier_recipe" : {
+			"recipe_name" : "Iron Brazier",
+			"description" : "Does a tolerable work as a grill and terrible as a helmet.",
+			"flavor" : "'There's time for work and there's time for a barbecue.' -Ascendants' saying."
 		}
 	},
 	"entities" : {
@@ -20,6 +25,10 @@
 			"iron_lantern_ghost" : {
 				"description" : "Sturdy and firm.",
 				"name" : "Iron Lantern"
+			},
+			"iron_brazier_ghost" : {
+				"description" : "The fire cozy crackles.",
+				"name" : "Iron Brazier"
 			}
 		}
 	}
