@@ -1,0 +1,13 @@
+{
+	"info" : {
+		"name" : "Lodewall Lights",
+		"version" : 2
+	},
+	"default_locale" : "en",
+	"aliases" : {
+		"steel_brazier" : "file(entities/decoration/steel_brazier/steel_brazier.json)"
+	},
+	"mixintos" : {
+		"/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(mixins/blacksmith_recipes.json)"
+	}
+}

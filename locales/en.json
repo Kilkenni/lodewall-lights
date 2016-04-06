@@ -1,0 +1,17 @@
+{
+	"recipes" : {
+		"steel_brazier_recipe" : {
+			"recipe_name" : "Steel Brazier",
+			"description" : "Do not touch. Or lick.",
+			"flavor" : "Much more warm than stone."
+		}
+	},
+	"entities" : {
+		"decoration" : {
+			"steel_brazier_ghost" : {
+				"description" : "A lifetime supply of coal included",
+				"name" : "Steel Brazier"
+			}
+		}
+	}
+}

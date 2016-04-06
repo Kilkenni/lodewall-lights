@@ -1,0 +1,11 @@
+{
+	"craftable_recipes" : {
+		"decoration" : {
+			"recipes" : {
+				"steel_brazier" : {
+					"recipe" : "file(/recipes/steel_brazier_recipe.json)"
+				}
+			}
+		}
+	}
+}

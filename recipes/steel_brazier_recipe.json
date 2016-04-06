@@ -1,0 +1,25 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 3,
+	"recipe_name" : "i18n(lodewalllights:recipes.steel_brazier_recipe.recipe_name)",
+	"description" : "i18n(lodewalllights:recipes.steel_brazier_recipe.description)",
+	"flavor" : "i18n(lodewalllights:recipes.steel_brazier_recipe.flavor)",
+	"portrait" : "/lodewalllights/entities/decoration/steel_brazier/steel_brazier.png",
+	"workshop" : "stonehearth:blacksmith:workbench",
+	"level_requirement" : 1,
+	"ingredients" : [
+		{
+         "uri": "stonehearth:refined:steel_ingot",
+         "count": 1
+		},
+		{
+         "uri": "stonehearth:resources:coal:lump_of_coal",
+         "count": 1
+		}
+	],
+	"produces" : [{
+			"item" : "lodewalllights:steel_brazier"
+		}
+	]
+}
