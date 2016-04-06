@@ -4,6 +4,11 @@
 			"recipe_name" : "Steel Brazier",
 			"description" : "Do not touch. Or lick.",
 			"flavor" : "Much more warm than stone."
+		},
+		"iron_lantern_recipe" : {
+			"recipe_name" : "Iron Lantern",
+			"description" : "Bails on the sides protect it from sudden blows. Rust and unwieldiness at no additional cost.",
+			"flavor" : "Feels like old times already."
 		}
 	},
 	"entities" : {
@@ -11,6 +16,10 @@
 			"steel_brazier_ghost" : {
 				"description" : "A lifetime supply of coal included",
 				"name" : "Steel Brazier"
+			},
+			"iron_lantern_ghost" : {
+				"description" : "Sturdy and firm.",
+				"name" : "Iron Lantern"
 			}
 		}
 	}

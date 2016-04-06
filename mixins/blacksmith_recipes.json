@@ -4,6 +4,9 @@
 			"recipes" : {
 				"steel_brazier" : {
 					"recipe" : "file(/recipes/steel_brazier_recipe.json)"
+				},
+				"iron_lantern" : {
+					"recipe" : "file(/recipes/iron_lantern_recipe.json)"
 				}
 			}
 		}

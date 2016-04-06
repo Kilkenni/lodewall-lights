@@ -5,7 +5,8 @@
 	},
 	"default_locale" : "en",
 	"aliases" : {
-		"steel_brazier" : "file(entities/decoration/steel_brazier/steel_brazier.json)"
+		"steel_brazier" : "file(entities/decoration/steel_brazier/steel_brazier.json)",
+		"iron_lantern" : "file(entities/decoration/iron_lantern/iron_lantern.json)"
 	},
 	"mixintos" : {
 		"/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(mixins/blacksmith_recipes.json)"

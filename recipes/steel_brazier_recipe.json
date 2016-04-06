@@ -19,7 +19,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "lodewalllights:steel_brazier"
+			"item" : "lodewall-lights:steel_brazier"
 		}
 	]
 }
