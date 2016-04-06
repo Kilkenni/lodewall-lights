@@ -19,7 +19,7 @@
          ]
       },
       "stonehearth:lamp": {
-         "light_effect": "/lodewalllights/data/effects/steel_brazier_effect",
+         "light_effect": "/lodewall-lights/data/effects/steel_brazier_effect",
 		 "light_policy": "always_on"
       },
       "stonehearth:entity_forms": {

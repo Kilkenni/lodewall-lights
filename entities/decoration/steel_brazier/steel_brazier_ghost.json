@@ -16,8 +16,8 @@
          "scale": 0.1
       },
       "unit_info": {
-         "display_name": "i18n(lodewalllights:entities.decoration.steel_brazier_ghost.name)",
-         "description": "i18n(lodewalllights:entities.decoration.steel_brazier_ghost.description)",
+         "display_name": "i18n(lodewall-lights:entities.decoration.steel_brazier_ghost.name)",
+         "description": "i18n(lodewall-lights:entities.decoration.steel_brazier_ghost.description)",
          "icon": "file(steel_brazier.png)"
       },
       "stonehearth:material": {
