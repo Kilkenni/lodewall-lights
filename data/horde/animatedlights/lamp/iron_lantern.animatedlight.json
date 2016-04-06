@@ -21,7 +21,7 @@
     "color": {
         "start": {
             "kind": "CONSTANT",
-            "values": [1.0, 0.88, 0.1]
+            "values": [1.0, 0.91, 0.32]
         }
     },
     "radius": {

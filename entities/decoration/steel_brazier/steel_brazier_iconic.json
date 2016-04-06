@@ -3,7 +3,7 @@
    "type": "entity",
    "components": {
       "mob" : {
-         "model_origin" : { "x": -0.5, "y": 0, "z": 0.5 }
+         "model_origin" : { "x": -0.55, "y": 0, "z": 0.45 }
       },
       "item" : {
          "category" : "decoration"
@@ -11,7 +11,7 @@
       "model_variants": {
          "default": {
             "models": [
-               "file(steel_brazier.qb)"
+               "file(steel_brazier_iconic.qb)"
             ]
          }
       }

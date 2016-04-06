@@ -14,7 +14,7 @@
          "count": 1
 		},
 		{
-         "uri": "stonehearth:resources:coal:lump_of_coal",
+         "material": "clay resource",
          "count": 1
 		}
 	],

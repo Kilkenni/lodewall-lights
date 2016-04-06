@@ -2,8 +2,8 @@
 	"recipes" : {
 		"steel_brazier_recipe" : {
 			"recipe_name" : "Steel Brazier",
-			"description" : "Do not touch. Or lick.",
-			"flavor" : "Much more warm than stone."
+			"description" : "Much more warm than stone.",
+			"flavor" : "Touching it after it's fired up is probably a very bad idea."
 		},
 		"iron_lantern_recipe" : {
 			"recipe_name" : "Iron Lantern",
@@ -13,7 +13,7 @@
 		"iron_brazier_recipe" : {
 			"recipe_name" : "Iron Brazier",
 			"description" : "Does a tolerable work as a grill and terrible as a helmet.",
-			"flavor" : "'There's time for work and there's time for a barbecue.' -Ascendants' saying."
+			"flavor" : "'There's time for work and then there's time for a barbecue.' - Ascendants' saying."
 		}
 	},
 	"entities" : {
