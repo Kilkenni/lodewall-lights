@@ -5,13 +5,13 @@
         "lifetime": {
             "start": {
                 "kind": "RANDOM_BETWEEN",
-                "values": [1.0, 1.9]
+                "values": [0.5, 0.7]
             }
         },
         "speed": {
             "start": {
                 "kind": "RANDOM_BETWEEN",
-                "values": [1.0, 1.8]
+                "values": [0.9, 1.2]
             }
         },
 
@@ -30,7 +30,7 @@
         "scale": {
             "start": {
                 "kind": "RANDOM_BETWEEN",
-                "values": [0.1, 0.3]
+                "values": [0.04, 0.12]
             },
             "over_lifetime": {
                 "kind": "RANDOM_BETWEEN_CURVES",
@@ -50,11 +50,11 @@
     "emission": {
         "rate": {
             "kind": "CONSTANT",
-            "values": [30]
+            "values": [12]
         },
         "origin": {
             "surface": "RECTANGLE",
-            "values": [0.6, 0.6]
+            "values": [0.4, 0.4]
         },
         "angle": {
             "kind": "CONSTANT",

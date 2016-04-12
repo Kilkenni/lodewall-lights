@@ -9,11 +9,11 @@
          }
       },
       "mob": {
-         "model_origin": { "x": -0.6, "y": 0, "z": 0.6 },
-         "region_origin": { "x": 0.6, "y": 0, "z": 0.6 }
+         "model_origin": { "x": -0.5, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
       },
       "render_info": {
-         "scale": 0.12
+         "scale": 0.1
       },
       "unit_info": {
          "display_name": "i18n(lodewall-lights:entities.decoration.wall_torch_ghost.name)",

@@ -1,25 +1,25 @@
 {
-   "type": "recipe",
-   "work_units": 3,
-   "recipe_name": "i18n(stonehearth:jobs.carpenter.recipes.wall_torch_recipe.recipe_name)",
-   "description": "i18n(stonehearth:jobs.carpenter.recipes.wall_torch_recipe.description)",
-   "flavor": "i18n(stonehearth:jobs.carpenter.recipes.wall_torch_recipe.flavor)",
-   "portrait": "/lodewall-lights/entities/decoration/wall_torch/wall_torch.png",
-   "workshop" : "stonehearth:carpenter:workbench", 
-   "level_requirement": 0,
-   "ingredients": [
-      {
+	"type" : "recipe",
+
+	"work_units" : 3,
+	"recipe_name" : "i18n(lodewall-lights:recipes.wall_torch_recipe.recipe_name)",
+	"description" : "i18n(lodewall-lights:recipes.wall_torch_recipe.description)",
+	"flavor" : "i18n(lodewall-lights:recipes.wall_torch_recipe.flavor)",
+	"portrait" : "/lodewall-lights/entities/decoration/wall_torch/wall_torch.png",
+	"workshop" : "stonehearth:carpenter:workbench",
+	"level_requirement" : 0,
+	"ingredients" : [
+		{
          "material": "wood resource",
          "count": 1
-      },
-	  {
+		},
+		{
          "material": "fiber resource",
          "count": 1
-      }
-   ],
-   "produces": [
-      {
-         "item": "lodewall-lights:wall_torch",
-      }
-   ]
+		}
+	],
+	"produces" : [{
+			"item" : "lodewall-lights:wall_torch"
+		}
+	]
 }

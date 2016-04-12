@@ -3,12 +3,12 @@
    "tracks": {
       "cubemitter": {
          "type": "cubemitter",
-         "cubemitter": "/stonehearth/data/horde/particles/fire/tiny_fire.cubemitter.json",
+         "cubemitter": "/lodewall-lights/data/horde/particles/fire/torch_fire.cubemitter.json",
          "loop": true,
          "transforms": {
-            "x":-0.6,
-            "y":1.6,
-            "z":0.6,
+            "x":-0.5,
+            "y":1.7,
+            "z":0.5,
             "rx":90,
             "ry":0,
             "rz":0
@@ -16,24 +16,46 @@
       },
       "cubemitter_glow": {
          "type": "cubemitter",
-         "cubemitter": "/stonehearth/data/horde/particles/lamp/oil_lamp_glow.cubemitter.json",
+         "cubemitter": "/lodewall-lights/data/horde/particles/fire/torch_glow.cubemitter.json",
          "loop": true,
          "transforms": {
-            "x":-0.6,
-            "y":1.6,
-            "z":0.6,
+            "x":-0.5,
+            "y":2.0,
+            "z":0.5,
             "rx":90,
             "ry":0,
             "rz":0
          }
       },
+	  "cubemitter_smoke": {
+         "type": "cubemitter",
+         "cubemitter": "/lodewall-lights/data/horde/particles/fire/smoke_torch.cubemitter.json",
+         "loop": true,
+         "transforms": {
+            "x":-0.5,
+            "y":2.2,
+            "z":0.5,
+            "rx":90,
+            "ry":0,
+            "rz":0
+         }
+      },
+	  "crackle_sound": {
+         "type": "sound_effect",
+         "loop" : true,
+         "start_time": 0,
+         "min_distance": 20,
+         "falloff" : 2.5,
+         "volume": 8,
+         "track" : "stonehearth:sounds:firepit_loop_sound"        
+      },
      "light": {
          "type": "light",
-         "light": "/stonehearth/data/horde/animatedlights/fire/small_fire.animatedlight.json",
+         "light": "/lodewall-lights/data/horde/animatedlights/fire/torch.animatedlight.json",
          "transforms": {
-            "x":-0.6,
-            "y":1.6,
-            "z":0.6
+            "x":-0.5,
+            "y":1.7,
+            "z":0.5
         }
      }
    }

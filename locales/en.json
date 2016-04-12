@@ -27,8 +27,8 @@
 		},
 		"wall_torch_recipe" : {
 			"recipe_name" : "Wall Torch",
-			"description" : "TODO.",
-			"flavor" : "TODO"
+			"description" : "With this one around any hearthling will feel 20% braver.",
+			"flavor" : "A small spark for a man, a glorious radiance for the community."
 		}
 	},
 	"entities" : {
