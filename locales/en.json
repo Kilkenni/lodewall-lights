@@ -5,6 +5,11 @@
 			"description" : "Much more warm than stone.",
 			"flavor" : "Touching it after it's fired up is probably a very bad idea."
 		},
+		"steel_lantern_recipe" : {
+			"recipe_name" : "Steel Lantern",
+			"description" : "These bright lanterns light the streets of Lodewall for centuries.",
+			"flavor" : "A star in a jar."
+		},
 		"iron_lantern_recipe" : {
 			"recipe_name" : "Iron Lantern",
 			"description" : "Bails on the sides protect it from sudden blows. Rust and unwieldiness at no additional cost.",
@@ -37,6 +42,10 @@
 				"description" : "A lifetime supply of coal included",
 				"name" : "Steel Brazier"
 			},
+			"steel_lantern_ghost" : {
+				"description" : "Creaks in the wind",
+				"name" : "Steel Lantern"
+			},
 			"iron_lantern_ghost" : {
 				"description" : "Sturdy and firm",
 				"name" : "Iron Lantern"
@@ -50,7 +59,7 @@
 				"name" : "Iron Brazier"
 			},
 			"clayware_candle_ghost" : {
-				"description" : "When simple candle is just not enough",
+				"description" : "When a bare candle is just not enough",
 				"name" : "Clayware Candle"
 			},
 			"wall_torch_ghost" : {

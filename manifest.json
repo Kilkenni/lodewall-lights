@@ -6,6 +6,7 @@
 	"default_locale" : "en",
 	"aliases" : {
 		"steel_brazier" : "file(entities/decoration/steel_brazier/steel_brazier.json)",
+		"steel_lantern" : "file(entities/decoration/steel_lantern/steel_lantern.json)",
 		"iron_lantern" : "file(entities/decoration/iron_lantern/iron_lantern.json)",
 		"iron_lamp" : "file(entities/decoration/iron_lamp/iron_lamp.json)",
 		"iron_brazier" : "file(entities/decoration/iron_brazier/iron_brazier.json)",
