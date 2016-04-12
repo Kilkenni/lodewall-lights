@@ -18,26 +18,35 @@
 		"iron_brazier_recipe" : {
 			"recipe_name" : "Iron Brazier",
 			"description" : "Does a tolerable work as a grill and terrible as a helmet.",
-			"flavor" : "'There's time for work and then there's time for a barbecue.' - Ascendants' saying."
+			"flavor" : "'There's time for work and then there's time for a barbecue.' - Ascendants' saying"
+		},
+		"clayware_candle_recipe" : {
+			"recipe_name" : "Clayware Candle",
+			"description" : "Hot wax threat: eliminated.",
+			"flavor" : "'And Rayya tamed the flame, and molded it, and made it warm and cozy.'"
 		}
 	},
 	"entities" : {
 		"decoration" : {
 			"steel_brazier_ghost" : {
-				"description" : "A lifetime supply of coal included.",
+				"description" : "A lifetime supply of coal included",
 				"name" : "Steel Brazier"
 			},
 			"iron_lantern_ghost" : {
-				"description" : "Sturdy and firm.",
+				"description" : "Sturdy and firm",
 				"name" : "Iron Lantern"
 			},
 			"iron_lamp_ghost" : {
-				"description" : "Perfect for putting on tables.",
+				"description" : "Perfect for putting on tables",
 				"name" : "Iron Lamp"
 			},
 			"iron_brazier_ghost" : {
-				"description" : "The fire cozy crackles.",
+				"description" : "The fire cozy crackles",
 				"name" : "Iron Brazier"
+			},
+			"clayware_candle_ghost" : {
+				"description" : "When simple candle is just not enough",
+				"name" : "Clayware Candle"
 			}
 		}
 	}
