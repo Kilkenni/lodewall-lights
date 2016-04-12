@@ -1,0 +1,11 @@
+{
+	"craftable_recipes" : {
+		"building_parts" : {
+			"recipes" : {
+				"wall_torch" : {
+					"recipe" : "file(/recipes/wall_torch_recipe.json)"
+				}
+			}
+		}
+	}
+}

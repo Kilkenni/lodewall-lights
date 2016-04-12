@@ -24,6 +24,11 @@
 			"recipe_name" : "Clayware Candle",
 			"description" : "Hot wax threat: eliminated.",
 			"flavor" : "'And Rayya tamed the flame, and molded it, and made it warm and cozy.'"
+		},
+		"wall_torch_recipe" : {
+			"recipe_name" : "Wall Torch",
+			"description" : "TODO.",
+			"flavor" : "TODO"
 		}
 	},
 	"entities" : {
@@ -47,6 +52,10 @@
 			"clayware_candle_ghost" : {
 				"description" : "When simple candle is just not enough",
 				"name" : "Clayware Candle"
+			},
+			"wall_torch_ghost" : {
+				"description" : "A simple sconce made of wood",
+				"name" : "Wall Torch"
 			}
 		}
 	}
