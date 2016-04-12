@@ -10,6 +10,11 @@
 			"description" : "Bails on the sides protect it from sudden blows. Rust and unwieldiness at no additional cost.",
 			"flavor" : "Feels like old times already."
 		},
+		"iron_lamp_recipe" : {
+			"recipe_name" : "Iron Lamp",
+			"description" : "An iron oil table lamp with glass cover. Writing a hearthling's journal at night has never been easier.",
+			"flavor" : "Can be used as a vase when unlit."
+		},
 		"iron_brazier_recipe" : {
 			"recipe_name" : "Iron Brazier",
 			"description" : "Does a tolerable work as a grill and terrible as a helmet.",
@@ -19,12 +24,16 @@
 	"entities" : {
 		"decoration" : {
 			"steel_brazier_ghost" : {
-				"description" : "A lifetime supply of coal included",
+				"description" : "A lifetime supply of coal included.",
 				"name" : "Steel Brazier"
 			},
 			"iron_lantern_ghost" : {
 				"description" : "Sturdy and firm.",
 				"name" : "Iron Lantern"
+			},
+			"iron_lamp_ghost" : {
+				"description" : "Perfect for putting on tables.",
+				"name" : "Iron Lamp"
 			},
 			"iron_brazier_ghost" : {
 				"description" : "The fire cozy crackles.",

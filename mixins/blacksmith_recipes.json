@@ -8,6 +8,9 @@
 				"iron_lantern" : {
 					"recipe" : "file(/recipes/iron_lantern_recipe.json)"
 				},
+				"iron_lamp" : {
+					"recipe" : "file(/recipes/iron_lamp_recipe.json)"
+				},
 				"iron_brazier" : {
 					"recipe" : "file(/recipes/iron_brazier_recipe.json)"
 				}
