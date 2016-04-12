@@ -5,6 +5,9 @@
       "mob" : {
          "model_origin" : { "x": -0.45, "y": 0, "z": 0.45 }
       },
+	  "render_info": {
+         "scale": 0.1
+      },
       "item" : {
          "category" : "decoration"
       },

@@ -9,11 +9,11 @@
          }
       },
       "mob": {
-         "model_origin": { "x": -0.45, "y": 0, "z": 0.45 },
-         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+         "model_origin": { "x": -0.6, "y": 0, "z": 0.6 },
+         "region_origin": { "x": 0.6, "y": 0, "z": 0.6 }
       },
       "render_info": {
-         "scale": 0.1
+         "scale": 0.12
       },
       "unit_info": {
          "display_name": "i18n(lodewall-lights:entities.decoration.iron_lamp_ghost.name)",

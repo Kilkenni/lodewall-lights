@@ -19,7 +19,7 @@
          ]
       },
       "stonehearth:lamp": {
-         "light_effect": "/lodewall-lights/data/effects/iron_lantern_effect",
+         "light_effect": "/lodewall-lights/data/effects/iron_lamp_effect",
 		 "light_policy": "always_on"
       },
       "stonehearth:entity_forms": {
