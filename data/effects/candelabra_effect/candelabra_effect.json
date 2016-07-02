@@ -1,0 +1,72 @@
+{
+   "type" : "effect",
+   "tracks": {
+      "cubemitter": {
+         "type": "cubemitter",
+         "cubemitter": "/stonehearth/data/horde/particles/fire/tiny_fire.cubemitter.json",
+         "loop": true,
+         "transforms": {
+            "x":-0.7,
+            "y":1.5,
+            "z":0.5,
+            "rx":90,
+            "ry":0,
+            "rz":0
+         }
+	  },
+	  "cubemitter_left": {
+         "type": "cubemitter",
+         "cubemitter": "/stonehearth/data/horde/particles/fire/tiny_fire.cubemitter.json",
+         "loop": true,
+         "transforms": {
+            "x":-0.2,
+            "y":1.2,
+            "z":0.5,
+            "rx":90,
+            "ry":0,
+            "rz":0
+         }
+	  },
+	  "cubemitter_right": {
+         "type": "cubemitter",
+         "cubemitter": "/stonehearth/data/horde/particles/fire/tiny_fire.cubemitter.json",
+         "loop": true,
+         "transforms": {
+            "x":-1.2,
+            "y":1.2,
+            "z":0.5,
+            "rx":90,
+            "ry":0,
+            "rz":0
+         }
+      },
+      "light": {
+         "type": "light",
+         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
+         "transforms": {
+            "x":-0.7,
+            "y":1.9,
+            "z":0.5
+        },
+		"shadows": true
+	  },
+	  "light_left": {
+         "type": "light",
+         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
+         "transforms": {
+            "x":-0.2,
+            "y":1.6,
+            "z":0.5
+        }
+	  },
+	  "light_right": {
+         "type": "light",
+         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
+         "transforms": {
+            "x":-1.2,
+            "y":1.6,
+            "z":0.5
+        }
+	  }		
+   }
+}

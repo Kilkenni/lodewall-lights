@@ -28,12 +28,17 @@
 		"clayware_candle_recipe" : {
 			"recipe_name" : "Clayware Candle",
 			"description" : "Hot wax threat: eliminated.",
-			"flavor" : "'And Rayya tamed the flame, and molded it, and made it warm and cozy.'"
+			"flavor" : "'And Rayya did tame the flame, and molded it, and made it warm and cozy.'"
 		},
 		"wall_torch_recipe" : {
 			"recipe_name" : "Wall Torch",
 			"description" : "With this one around any hearthling will feel 20% braver.",
 			"flavor" : "A small spark for a man, a glorious radiance for the community."
+		},
+		"candelabra_stone_recipe" : {
+			"recipe_name" : "Stone Candelabra",
+			"description" : "A finely chiseled holder featuring three wax candles.",
+			"flavor" : "An light source equally fine for a temple crypt or a mountain bastion."
 		}
 	},
 	"entities" : {
@@ -65,6 +70,10 @@
 			"wall_torch_ghost" : {
 				"description" : "A simple sconce made of wood",
 				"name" : "Wall Torch"
+			},
+			"candelabra_stone_ghost" : {
+				"description" : "A triple candle holder",
+				"name" : "Stone Candelabra"
 			}
 		}
 	}

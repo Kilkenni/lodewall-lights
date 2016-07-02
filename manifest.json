@@ -11,11 +11,14 @@
 		"iron_lamp" : "file(entities/decoration/iron_lamp/iron_lamp.json)",
 		"iron_brazier" : "file(entities/decoration/iron_brazier/iron_brazier.json)",
 		"clayware_candle" : "file(entities/decoration/clayware_candle/clayware_candle.json)",
-		"wall_torch" : "file(entities/decoration/wall_torch/wall_torch.json)"
+		"wall_torch" : "file(entities/decoration/wall_torch/wall_torch.json)",
+		"stone_candelabra" : "file(entities/decoration/candelabra_stone/candelabra_stone.json)"
+		
 	},
 	"mixintos" : {
 		"/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(mixins/blacksmith_recipes.json)",
 		"/stonehearth/jobs/potter/recipes/recipes.json" : "file(mixins/potter_recipes.json)",
-		"/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(mixins/carpenter_recipes.json)"
+		"/stonehearth/jobs/carpenter/recipes/recipes.json" : "file(mixins/carpenter_recipes.json)",
+		"/stonehearth/jobs/mason/recipes/recipes.json" : "file(mixins/mason_recipes.json)"
 	}
 }

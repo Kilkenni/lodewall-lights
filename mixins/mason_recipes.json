@@ -1,0 +1,11 @@
+{
+	"craftable_recipes" : {
+		"signage_decoration" : {
+			"recipes" : {
+				"stone_candelabra" : {
+					"recipe" : "file(/recipes/candelabra_stone_recipe.json)"
+				}
+			}
+		}
+	}
+}
