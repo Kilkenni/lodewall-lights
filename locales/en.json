@@ -38,7 +38,12 @@
 		"candelabra_stone_recipe" : {
 			"recipe_name" : "Stone Candelabra",
 			"description" : "A finely chiseled holder featuring three wax candles.",
-			"flavor" : "An light source equally fine for a temple crypt or a mountain bastion."
+			"flavor" : "A light source equally fine for a temple crypt or a mountain bastion."
+		},
+		"candelabra_stone_tall_recipe" : {
+			"recipe_name" : "Tall Stone Candelabra",
+			"description" : "This carved tall stone candle holder is an example of true mason's craftsmanship.",
+			"flavor" : "Legendary terror of all crooked gamblers."
 		}
 	},
 	"entities" : {
@@ -74,6 +79,10 @@
 			"candelabra_stone_ghost" : {
 				"description" : "A triple candle holder",
 				"name" : "Stone Candelabra"
+			},
+			"candelabra_stone_tall_ghost" : {
+				"description" : "A triple candle holder. On a rod",
+				"name" : "Tall Stone Candelabra"
 			}
 		}
 	}

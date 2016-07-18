@@ -1,7 +1,7 @@
 {
 	"type" : "recipe",
 
-	"work_units" : 5,
+	"work_units" : 7,
 	"recipe_name" : "i18n(lodewall-lights:recipes.candelabra_stone_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.candelabra_stone_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.candelabra_stone_recipe.flavor)",

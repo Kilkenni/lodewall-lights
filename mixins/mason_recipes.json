@@ -4,6 +4,9 @@
 			"recipes" : {
 				"stone_candelabra" : {
 					"recipe" : "file(/recipes/candelabra_stone_recipe.json)"
+				},
+				"stone_candelabra_tall" : {
+					"recipe" : "file(/recipes/candelabra_stone_tall_recipe.json)"
 				}
 			}
 		}

@@ -1,0 +1,27 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(candelabra_stone_tall.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.7, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.7, "y": 0, "z": 0.5 }
+      },
+      "render_info": {
+         "scale": 0.1
+      },
+      "unit_info": {
+         "display_name": "i18n(lodewall-lights:entities.decoration.candelabra_stone_tall_ghost.name)",
+         "description": "i18n(lodewall-lights:entities.decoration.candelabra_stone_tall_ghost.description)",
+         "icon": "file(candelabra_stone_tall.png)"
+      },
+      "stonehearth:material": {
+         "tags": "light_source crafted stone"
+      }
+   }
+}

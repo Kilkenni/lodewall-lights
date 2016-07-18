@@ -12,7 +12,8 @@
 		"iron_brazier" : "file(entities/decoration/iron_brazier/iron_brazier.json)",
 		"clayware_candle" : "file(entities/decoration/clayware_candle/clayware_candle.json)",
 		"wall_torch" : "file(entities/decoration/wall_torch/wall_torch.json)",
-		"stone_candelabra" : "file(entities/decoration/candelabra_stone/candelabra_stone.json)"
+		"stone_candelabra" : "file(entities/decoration/candelabra_stone/candelabra_stone.json)",
+		"stone_candelabra_tall" : "file(entities/decoration/candelabra_stone_tall/candelabra_stone_tall.json)",
 		
 	},
 	"mixintos" : {
