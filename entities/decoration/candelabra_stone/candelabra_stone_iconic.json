@@ -5,9 +5,6 @@
       "mob" : {
          "model_origin" : { "x": -0.5, "y": 0, "z": 0.5 }
       },
-      "item" : {
-         "category" : "decoration"
-      },
       "model_variants": {
          "default": {
             "models": [
@@ -17,6 +14,12 @@
       },
 	  "render_info": {
          "scale": 0.1
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "is_item": true,
+         "category": "decoration"
       }
    }
 }

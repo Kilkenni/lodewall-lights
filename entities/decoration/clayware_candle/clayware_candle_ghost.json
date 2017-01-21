@@ -14,14 +14,15 @@
       },
       "render_info": {
          "scale": 0.1
-      },
-      "unit_info": {
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
          "display_name": "i18n(lodewall-lights:entities.decoration.clayware_candle_ghost.name)",
          "description": "i18n(lodewall-lights:entities.decoration.clayware_candle_ghost.description)",
-         "icon": "file(clayware_candle.png)"
-      },
-      "stonehearth:material": {
-         "tags": "light_source crafted clay"
+         "icon": "file(clayware_candle.png)",
+         "category": "decoration",
+         "material_tags": "light_source crafted clay"
       }
    }
 }

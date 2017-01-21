@@ -14,14 +14,15 @@
       },
       "render_info": {
          "scale": 0.1
-      },
-      "unit_info": {
-         "display_name": "i18n(lodewall-lights:entities.decoration.steel_lantern_ghost.name)",
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+        "display_name": "i18n(lodewall-lights:entities.decoration.steel_lantern_ghost.name)",
          "description": "i18n(lodewall-lights:entities.decoration.steel_lantern_ghost.description)",
-         "icon": "file(steel_lantern.png)"
-      },
-      "stonehearth:material": {
-         "tags": "light_source crafted"
+         "icon": "file(steel_lantern.png)",
+         "category": "decoration",
+         "material_tags": "light_source crafted steel"
       }
    }
 }

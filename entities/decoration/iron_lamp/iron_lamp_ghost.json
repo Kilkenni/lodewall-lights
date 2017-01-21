@@ -14,14 +14,15 @@
       },
       "render_info": {
          "scale": 0.12
-      },
-      "unit_info": {
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
          "display_name": "i18n(lodewall-lights:entities.decoration.iron_lamp_ghost.name)",
          "description": "i18n(lodewall-lights:entities.decoration.iron_lamp_ghost.description)",
-         "icon": "file(iron_lamp.png)"
-      },
-      "stonehearth:material": {
-         "tags": "light_source crafted"
+         "icon": "file(iron_lamp.png)",
+         "category": "decoration",
+         "material_tags": "light_source crafted iron"
       }
    }
 }
