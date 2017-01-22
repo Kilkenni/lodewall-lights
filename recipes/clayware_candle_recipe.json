@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(lodewall-lights:recipes.clayware_candle_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.clayware_candle_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.clayware_candle_recipe.flavor)",
-	"portrait" : "/lodewall-lights/entities/decoration/clayware_candle/clayware_candle.png",
+	"portrait" : "/lodewall-lights/recipes/clayware_candle.png",
 	"workshop" : "stonehearth:potter:kiln",
 	"level_requirement" : 2,
 	"ingredients" : [

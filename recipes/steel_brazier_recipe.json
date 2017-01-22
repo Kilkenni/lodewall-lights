@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(lodewall-lights:recipes.steel_brazier_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.steel_brazier_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.steel_brazier_recipe.flavor)",
-	"portrait" : "/lodewall-lights/entities/decoration/steel_brazier/steel_brazier.png",
+	"portrait" : "/lodewall-lights/recipes/steel_brazier.png",
 	"workshop" : "stonehearth:blacksmith:workbench",
 	"level_requirement" : 4,
 	"ingredients" : [

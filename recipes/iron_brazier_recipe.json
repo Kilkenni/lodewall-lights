@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(lodewall-lights:recipes.iron_brazier_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.iron_brazier_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.iron_brazier_recipe.flavor)",
-	"portrait" : "/lodewall-lights/entities/decoration/iron_brazier/iron_brazier.png",
+	"portrait" : "/lodewall-lights/recipes/iron_brazier.png",
 	"workshop" : "stonehearth:blacksmith:workbench",
 	"level_requirement" : 2,
 	"ingredients" : [

@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(lodewall-lights:recipes.iron_lamp_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.iron_lamp_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.iron_lamp_recipe.flavor)",
-	"portrait" : "/lodewall-lights/entities/decoration/iron_lamp/iron_lamp.png",
+	"portrait" : "/lodewall-lights/recipes/iron_lamp.png",
 	"workshop" : "stonehearth:blacksmith:workbench",
 	"level_requirement" : 2,
 	"ingredients" : [

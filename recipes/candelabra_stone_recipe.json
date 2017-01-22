@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(lodewall-lights:recipes.candelabra_stone_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.candelabra_stone_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.candelabra_stone_recipe.flavor)",
-	"portrait" : "/lodewall-lights/entities/decoration/candelabra_stone/candelabra_stone.png",
+	"portrait" : "/lodewall-lights/recipes/candelabra_stone.png",
 	"workshop" : "stonehearth:mason:pedestal",
 	"level_requirement" : 3,
 	"ingredients" : [

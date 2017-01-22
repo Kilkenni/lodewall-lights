@@ -5,7 +5,7 @@
 	"recipe_name" : "i18n(lodewall-lights:recipes.steel_lantern_recipe.recipe_name)",
 	"description" : "i18n(lodewall-lights:recipes.steel_lantern_recipe.description)",
 	"flavor" : "i18n(lodewall-lights:recipes.steel_lantern_recipe.flavor)",
-	"portrait" : "/lodewall-lights/entities/decoration/steel_lantern/steel_lantern.png",
+	"portrait" : "/lodewall-lights/recipes/steel_lantern.png",
 	"workshop" : "stonehearth:blacksmith:workbench",
 	"level_requirement" : 4,
 	"ingredients" : [
