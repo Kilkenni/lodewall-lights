@@ -22,7 +22,7 @@
          "description": "i18n(lodewall-lights:entities.decoration.clayware_candle_ghost.description)",
          "icon": "file(clayware_candle.png)",
          "category": "decoration",
-         "material_tags": "light_source crafted clay"
+         "material_tags": "light_source crafted clay stockpile_decoration"
       }
    }
 }

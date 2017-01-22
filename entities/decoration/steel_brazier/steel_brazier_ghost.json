@@ -22,7 +22,7 @@
          "description": "i18n(lodewall-lights:entities.decoration.steel_brazier_ghost.description)",
          "icon": "file(steel_brazier.png)",
          "category": "decoration",
-         "material_tags": "light_source crafted steel"
+         "material_tags": "light_source crafted steel stockpile_decoration"
       }
    }
 }

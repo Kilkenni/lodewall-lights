@@ -22,7 +22,7 @@
          "description": "i18n(lodewall-lights:entities.decoration.candelabra_stone_ghost.description)",
          "icon": "file(candelabra_stone.png)",
          "category": "decoration",
-         "material_tags": "light_source crafted stone"
+         "material_tags": "light_source crafted stone stockpile_decoration"
       }
    }
 }
