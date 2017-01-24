@@ -11,7 +11,7 @@
          ]
       },
       "stonehearth:lamp": {
-         "light_effect": "/lodewall-lights/data/effects/candelabra_tall_effect",
+         "light_effect": "/lodewall_lights/data/effects/candelabra_tall_effect",
 		 "light_policy": "always_on"
       },
       "stonehearth:entity_forms": {

@@ -1,19 +1,19 @@
 {
 	"info" : {
-		"name" : "Lodewall Lights",
+		"name" : "lodewall_lights",
 		"version" : 3
 	},
 	"default_locale" : "en",
 	"aliases" : {
-		"steel_brazier" : "file(entities/decoration/steel_brazier/steel_brazier.json)",
-		"steel_lantern" : "file(entities/decoration/steel_lantern/steel_lantern.json)",
-		"iron_lantern" : "file(entities/decoration/iron_lantern/iron_lantern.json)",
-		"iron_lamp" : "file(entities/decoration/iron_lamp/iron_lamp.json)",
-		"iron_brazier" : "file(entities/decoration/iron_brazier/iron_brazier.json)",
-		"clayware_candle" : "file(entities/decoration/clayware_candle/clayware_candle.json)",
-		"wall_torch" : "file(entities/decoration/wall_torch/wall_torch.json)",
-		"stone_candelabra" : "file(entities/decoration/candelabra_stone/candelabra_stone.json)",
-		"stone_candelabra_tall" : "file(entities/decoration/candelabra_stone_tall/candelabra_stone_tall.json)"		
+		"brazier_steel" : "file(entities/decoration/brazier_steel/brazier_steel.json)",
+		"lantern_steel" : "file(entities/decoration/lantern_steel/lantern_steel.json)",
+		"lamp_brass" : "file(entities/decoration/lamp_brass/lamp_brass.json)",
+		"lamp_tin" : "file(entities/decoration/lamp_tin/lamp_tin.json)",
+		"brazier_iron" : "file(entities/decoration/brazier_iron/brazier_iron.json)",
+		"candle_clayware" : "file(entities/decoration/candle_clayware/candle_clayware.json)",
+		"torch_wood" : "file(entities/decoration/torch_wood/torch_wood.json)",
+		"candelabra_stone" : "file(entities/decoration/candelabra_stone/candelabra_stone.json)",
+		"candelabra_stone_tall" : "file(entities/decoration/candelabra_stone_tall/candelabra_stone_tall.json)"		
 	},
 	"mixintos" : {
 		"/stonehearth/jobs/blacksmith/recipes/recipes.json" : "file(mixins/blacksmith_recipes.json)",

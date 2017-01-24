@@ -2,20 +2,20 @@
 	"craftable_recipes" : {
 		"decoration" : {
 			"recipes" : {
-				"steel_brazier" : {
-					"recipe" : "file(/recipes/steel_brazier_recipe.json)"
+				"brazier_steel" : {
+					"recipe" : "file(/recipes/brazier_steel_recipe.json)"
 				},
-				"steel_lantern" : {
-					"recipe" : "file(/recipes/steel_lantern_recipe.json)"
+				"lantern_steel" : {
+					"recipe" : "file(/recipes/lantern_steel_recipe.json)"
 				},
-				"iron_lantern" : {
-					"recipe" : "file(/recipes/iron_lantern_recipe.json)"
+				"lamp_brass" : {
+					"recipe" : "file(/recipes/;amp_brass_recipe.json)"
 				},
-				"iron_lamp" : {
-					"recipe" : "file(/recipes/iron_lamp_recipe.json)"
+				"lamp_tin" : {
+					"recipe" : "file(/recipes/lamp_tin_recipe.json)"
 				},
-				"iron_brazier" : {
-					"recipe" : "file(/recipes/iron_brazier_recipe.json)"
+				"brazier_iron" : {
+					"recipe" : "file(/recipes/brazier_iron_recipe.json)"
 				}
 			}
 		}

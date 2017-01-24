@@ -2,8 +2,8 @@
 	"craftable_recipes" : {
 		"building_parts" : {
 			"recipes" : {
-				"wall_torch" : {
-					"recipe" : "file(/recipes/wall_torch_recipe.json)"
+				"torch_wood" : {
+					"recipe" : "file(/recipes/torch_wood_recipe.json)"
 				}
 			}
 		}

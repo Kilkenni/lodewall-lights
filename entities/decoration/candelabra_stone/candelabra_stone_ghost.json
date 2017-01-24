@@ -18,8 +18,8 @@
    },
    "entity_data": {
       "stonehearth:catalog": {
-         "display_name": "i18n(lodewall-lights:entities.decoration.candelabra_stone_ghost.name)",
-         "description": "i18n(lodewall-lights:entities.decoration.candelabra_stone_ghost.description)",
+         "display_name": "i18n(lodewall_lights:entities.decoration.candelabra_stone_ghost.name)",
+         "description": "i18n(lodewall_lights:entities.decoration.candelabra_stone_ghost.description)",
          "icon": "file(candelabra_stone.png)",
          "category": "decoration",
          "material_tags": "light_source crafted stone stockpile_decoration"

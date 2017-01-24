@@ -2,10 +2,10 @@
 	"type" : "recipe",
 
 	"work_units" : 10,
-	"recipe_name" : "i18n(lodewall-lights:recipes.candelabra_stone_tall_recipe.recipe_name)",
-	"description" : "i18n(lodewall-lights:recipes.candelabra_stone_tall_recipe.description)",
-	"flavor" : "i18n(lodewall-lights:recipes.candelabra_stone_tall_recipe.flavor)",
-	"portrait" : "/lodewall-lights/recipes/candelabra_stone_tall.png",
+	"recipe_name" : "i18n(lodewall_lights:recipes.candelabra_stone_tall_recipe.recipe_name)",
+	"description" : "i18n(lodewall_lights:recipes.candelabra_stone_tall_recipe.description)",
+	"flavor" : "i18n(lodewall_lights:recipes.candelabra_stone_tall_recipe.flavor)",
+	"portrait" : "/lodewall_lights/recipes/candelabra_stone_tall.png",
 	"workshop" : "stonehearth:mason:pedestal",
 	"level_requirement" : 4,
 	"ingredients" : [
@@ -15,7 +15,7 @@
 		}
 	],
 	"produces" : [{
-			"item" : "lodewall-lights:stone_candelabra_tall"
+			"item" : "lodewall_lights:candelabra_stone_tall"
 		}
 	]
 }

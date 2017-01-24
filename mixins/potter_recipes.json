@@ -2,8 +2,8 @@
 	"craftable_recipes" : {
 		"building_parts" : {
 			"recipes" : {
-				"clayware_candle" : {
-					"recipe" : "file(/recipes/clayware_candle_recipe.json)"
+				"candle_clayware" : {
+					"recipe" : "file(/recipes/candle_clayware_recipe.json)"
 				}
 			}
 		}

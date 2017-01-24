@@ -2,10 +2,10 @@
 	"craftable_recipes" : {
 		"signage_decoration" : {
 			"recipes" : {
-				"stone_candelabra" : {
+				"candelabra_stone" : {
 					"recipe" : "file(/recipes/candelabra_stone_recipe.json)"
 				},
-				"stone_candelabra_tall" : {
+				"candelabra_stone_tall" : {
 					"recipe" : "file(/recipes/candelabra_stone_tall_recipe.json)"
 				}
 			}
