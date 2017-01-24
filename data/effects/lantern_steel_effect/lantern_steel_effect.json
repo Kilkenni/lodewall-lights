@@ -3,7 +3,7 @@
    "tracks": {
       "cubemitter_glow": {
          "type": "cubemitter",
-         "cubemitter": "/lodewall_lights/data/horde/particles/lamp/lantern_iron.cubemitter.json",
+         "cubemitter": "/lodewall_lights/data/horde/particles/lamp/lamp_brass.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":-0.45,
