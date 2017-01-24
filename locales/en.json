@@ -31,7 +31,7 @@
 			"flavor" : "'And Rayya did tame the flame, and molded it, and made it warm and cozy.'"
 		},
 		"torch_wood_recipe" : {
-			"recipe_name" : "Wall Torch",
+			"recipe_name" : "Wooden Torch",
 			"description" : "With this one around any hearthling will feel 20% more confident.",
 			"flavor" : "A small spark for a man, a glorious radiance for the community."
 		},
@@ -74,7 +74,7 @@
 			},
 			"torch_wood_ghost" : {
 				"description" : "A simple torch made of wood",
-				"name" : "Wall Torch"
+				"name" : "Wooden Torch"
 			},
 			"candelabra_stone_ghost" : {
 				"description" : "A triple candle holder",
