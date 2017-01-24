@@ -1,38 +1,38 @@
 {
 	"recipes" : {
-		"steel_brazier_recipe" : {
+		"brazier_steel_recipe" : {
 			"recipe_name" : "Steel Brazier",
 			"description" : "Much more warm than stone.",
 			"flavor" : "Touching it after it's fired up is probably a very bad idea."
 		},
-		"steel_lantern_recipe" : {
+		"lantern_steel_recipe" : {
 			"recipe_name" : "Steel Lantern",
 			"description" : "These bright lanterns light the streets of Lodewall for centuries.",
 			"flavor" : "A star in a jar."
 		},
-		"iron_lantern_recipe" : {
-			"recipe_name" : "Iron Lantern",
-			"description" : "Bails on the sides protect it from sudden blows. Rust and unwieldiness at no additional cost.",
+		"lamp_brass_recipe" : {
+			"recipe_name" : "Brass Lamp",
+			"description" : "Bails on the sides protect it from sudden blows. Antiquity and unwieldiness at no additional cost.",
 			"flavor" : "Feels like old times already."
 		},
-		"iron_lamp_recipe" : {
-			"recipe_name" : "Iron Lamp",
-			"description" : "An iron oil table lamp with glass cover. Writing a hearthling's journal at night has never been easier.",
+		"lamp_tin_recipe" : {
+			"recipe_name" : "Tin Lamp",
+			"description" : "A tin oil table lamp with glass cover. Writing a hearthling's journal at night has never been easier.",
 			"flavor" : "Can be used as a vase when unlit."
 		},
-		"iron_brazier_recipe" : {
+		"brazier_iron_recipe" : {
 			"recipe_name" : "Iron Brazier",
 			"description" : "Does a tolerable work as a grill and terrible as a helmet.",
 			"flavor" : "'There's time for work and then there's time for a barbecue.' - Ascendants' saying"
 		},
-		"clayware_candle_recipe" : {
+		"candle_clayware_recipe" : {
 			"recipe_name" : "Clayware Candle",
 			"description" : "Hot wax threat: eliminated.",
 			"flavor" : "'And Rayya did tame the flame, and molded it, and made it warm and cozy.'"
 		},
-		"wall_torch_recipe" : {
+		"torch_wood_recipe" : {
 			"recipe_name" : "Wall Torch",
-			"description" : "With this one around any hearthling will feel 20% braver.",
+			"description" : "With this one around any hearthling will feel 20% more confident.",
 			"flavor" : "A small spark for a man, a glorious radiance for the community."
 		},
 		"candelabra_stone_recipe" : {
@@ -48,32 +48,32 @@
 	},
 	"entities" : {
 		"decoration" : {
-			"steel_brazier_ghost" : {
+			"brazier_steel_ghost" : {
 				"description" : "A lifetime supply of coal included",
 				"name" : "Steel Brazier"
 			},
-			"steel_lantern_ghost" : {
+			"lantern_steel_ghost" : {
 				"description" : "Creaks in the wind",
 				"name" : "Steel Lantern"
 			},
-			"iron_lantern_ghost" : {
-				"description" : "Sturdy and firm",
-				"name" : "Iron Lantern"
+			"lamp_brass_ghost" : {
+				"description" : "Feeling steampunkish already?",
+				"name" : "Brass Lamp"
 			},
-			"iron_lamp_ghost" : {
+			"lamp_tin_ghost" : {
 				"description" : "Perfect for putting on tables",
-				"name" : "Iron Lamp"
+				"name" : "Tin Lamp"
 			},
-			"iron_brazier_ghost" : {
+			"brazier_iron_ghost" : {
 				"description" : "The fire cozy crackles",
 				"name" : "Iron Brazier"
 			},
-			"clayware_candle_ghost" : {
+			"candle_clayware_ghost" : {
 				"description" : "When a bare candle is just not enough",
 				"name" : "Clayware Candle"
 			},
-			"wall_torch_ghost" : {
-				"description" : "A simple sconce made of wood",
+			"torch_wood_ghost" : {
+				"description" : "A simple torch made of wood",
 				"name" : "Wall Torch"
 			},
 			"candelabra_stone_ghost" : {
