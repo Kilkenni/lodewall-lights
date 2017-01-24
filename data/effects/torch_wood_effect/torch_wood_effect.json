@@ -3,7 +3,7 @@
    "tracks": {
       "cubemitter": {
          "type": "cubemitter",
-         "cubemitter": "/lodewall-lights/data/horde/particles/fire/torch_fire.cubemitter.json",
+         "cubemitter": "/lodewall_lights/data/horde/particles/fire/torch_fire.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":-0.5,
@@ -16,7 +16,7 @@
       },
       "cubemitter_glow": {
          "type": "cubemitter",
-         "cubemitter": "/lodewall-lights/data/horde/particles/fire/torch_glow.cubemitter.json",
+         "cubemitter": "/lodewall_lights/data/horde/particles/fire/torch_glow.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":-0.5,
@@ -29,7 +29,7 @@
       },
 	  "cubemitter_smoke": {
          "type": "cubemitter",
-         "cubemitter": "/lodewall-lights/data/horde/particles/fire/smoke_torch.cubemitter.json",
+         "cubemitter": "/lodewall_lights/data/horde/particles/fire/torch_smoke.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":-0.5,
@@ -51,7 +51,7 @@
       },
      "light": {
          "type": "light",
-         "light": "/lodewall-lights/data/horde/animatedlights/fire/torch.animatedlight.json",
+         "light": "/lodewall_lights/data/horde/animatedlights/fire/torch.animatedlight.json",
          "transforms": {
             "x":-0.5,
             "y":1.7,

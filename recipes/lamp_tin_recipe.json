@@ -1,0 +1,25 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 5,
+	"recipe_name" : "i18n(lodewall_lights:recipes.lamp_tin_recipe.recipe_name)",
+	"description" : "i18n(lodewall_lights:recipes.lamp_tin_recipe.description)",
+	"flavor" : "i18n(lodewall_lights:recipes.lamp_tin_recipe.flavor)",
+	"portrait" : "/lodewall_lights/recipes/lamp_tin.png",
+	"workshop" : "stonehearth:blacksmith:workbench",
+	"level_requirement" : 1,
+	"ingredients" : [
+		{
+         "uri": "stonehearth:refined:tin_ingot",
+         "count": 1
+		},
+		{
+         "material": "clay resource",
+         "count": 1
+		}
+	],
+	"produces" : [{
+			"item" : "lodewall_lights:lamp_tin"
+		}
+	]
+}

@@ -3,7 +3,7 @@
    "tracks": {
       "cubemitter_glow": {
          "type": "cubemitter",
-         "cubemitter": "/lodewall-lights/data/horde/particles/lamp/iron_lantern.cubemitter.json",
+         "cubemitter": "/lodewall_lights/data/horde/particles/lamp/lantern_iron.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":-0.45,
@@ -16,7 +16,7 @@
       },
      "light": {
          "type": "light",
-         "light": "/lodewall-lights/data/horde/animatedlights/lamp/steel_lantern.animatedlight.json",
+         "light": "/lodewall_lights/data/horde/animatedlights/lamp/lantern_steel.animatedlight.json",
          "transforms": {
             "x":-0.45,
             "y":0.4,
