@@ -9,7 +9,7 @@
 					"recipe" : "file(/recipes/lantern_steel_recipe.json)"
 				},
 				"lamp_brass" : {
-					"recipe" : "file(/recipes/;amp_brass_recipe.json)"
+					"recipe" : "file(/recipes/lamp_brass_recipe.json)"
 				},
 				"lamp_tin" : {
 					"recipe" : "file(/recipes/lamp_tin_recipe.json)"
