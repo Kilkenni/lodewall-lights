@@ -2,6 +2,12 @@
    "type": "entity",
    "mixins": "file(lantern_steel_ghost.json)",
    "components": {
+      "render_info": {
+         "color_map": "lodewall_lights:color_map:translucent",
+         "material_maps": [
+            "/lodewall_lights/data/materials/material_maps/translucent_material_map.json"
+         ]
+      },
       "region_collision_shape": {
          "region": [
             {

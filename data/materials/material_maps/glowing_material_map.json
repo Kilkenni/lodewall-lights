@@ -1,0 +1,5 @@
+{
+   "lodewall_lights:glowing" : {
+      "render_material" : "/lodewall_lights/data/horde/materials/glowing.material.json"
+   }
+}
