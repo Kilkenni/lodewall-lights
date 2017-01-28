@@ -3,7 +3,7 @@
    "type": "entity",
    "components": {
       "mob" : {
-         "model_origin" : { "x": -0.5, "y": 0, "z": 0.55 }
+         "model_origin" : { "x": -0.5, "y": 0, "z": 0.5 }
       },
       "model_variants": {
          "default": {

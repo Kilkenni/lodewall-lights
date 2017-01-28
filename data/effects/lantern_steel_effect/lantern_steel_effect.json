@@ -6,9 +6,9 @@
          "cubemitter": "/lodewall_lights/data/horde/particles/lamp/lamp_brass.cubemitter.json",
          "loop": true,
          "transforms": {
-            "x":-0.45,
+            "x":-0.5,
             "y":0.4,
-            "z":0.45,
+            "z":0.4,
             "rx":90,
             "ry":0,
             "rz":0
@@ -18,9 +18,9 @@
          "type": "light",
          "light": "/lodewall_lights/data/horde/animatedlights/lamp/lantern_steel.animatedlight.json",
          "transforms": {
-            "x":-0.45,
+            "x":-0.5,
             "y":0.4,
-            "z":0.45
+            "z":0.4
         }
      }
    }

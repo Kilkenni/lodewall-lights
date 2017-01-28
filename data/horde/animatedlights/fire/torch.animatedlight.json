@@ -18,7 +18,7 @@
     "radius": {
         "start": {
             "kind": "CONSTANT",
-            "values": [5.0]
+            "values": [10.0]
         }
     }
 }

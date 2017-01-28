@@ -40,7 +40,7 @@
         "scale": {
             "start": {
                 "kind": "RANDOM_BETWEEN",
-                "values": [0.3, 0.5]
+                "values": [0.4, 0.6]
             },
             "over_lifetime": {
                 "kind": "CURVE",

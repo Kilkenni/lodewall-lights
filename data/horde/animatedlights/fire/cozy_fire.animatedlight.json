@@ -1,11 +1,11 @@
 {
     "name": "fire",
-    "duration": 0.2,
+    "duration": 0.5,
     "loops": true,
     "intensity": {
         "over_lifetime": {
             "kind": "RANDOM_BETWEEN_CURVES",
-            "values": [ [[0.0, 0.4], [0.25, 0.4], [0.5, 0.4], [0.75, 0.4], [1.0, 0.4]],
+            "values": [ [[0.0, 0.5], [0.25, 0.5], [0.5, 0.5], [0.75, 0.5], [1.0, 0.5]],
                         [[0.0, 0.7], [0.25, 0.7], [0.5, 0.7], [0.75, 0.7], [1.0, 0.7]] ]
         }
     },
@@ -18,7 +18,7 @@
     "radius": {
         "start": {
             "kind": "CONSTANT",
-            "values": [5.0]
+            "values": [15.0]
         }
     }
 }
