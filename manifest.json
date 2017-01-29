@@ -13,6 +13,7 @@
 		"candle_clayware" : "file(entities/decoration/candle_clayware/candle_clayware.json)",
 		"torch_wood" : "file(entities/decoration/torch_wood/torch_wood.json)",
 		"torch_iron" : "file(entities/decoration/torch_iron/torch_iron.json)",
+		"torch_steel" : "file(entities/decoration/torch_steel/torch_steel.json)",
 		"candelabra_stone" : "file(entities/decoration/candelabra_stone/candelabra_stone.json)",
 		"candelabra_stone_tall" : "file(entities/decoration/candelabra_stone_tall/candelabra_stone_tall.json)",
 		"lodewall_lights:color_map:translucent" : "file(data/materials/color_maps/translucent_color_map.json)",

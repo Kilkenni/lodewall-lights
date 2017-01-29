@@ -37,8 +37,13 @@
 		},
 		"torch_iron_recipe" : {
 			"recipe_name" : "Iron Torch",
-			"description" : "Forged by skilled blacksmiths, this one is perfect for dark dungeons. It uses a small reservoir of oil to fuel the fire.",
+			"description" : "Forged by skilled blacksmiths, this torch is perfect for dark dungeons. It uses a small reservoir of oil to fuel the fire.",
 			"flavor" : "'What does lurk there in the night? It may be a mindless wight!'"
+		},
+		"torch_steel_recipe" : {
+			"recipe_name" : "Steel Torch",
+			"description" : "Fueled by oil, steel torch is extremely sturdy. The fire is reliably locked behind metal bars.",
+			"flavor" : "It is said mountain underkings prefer to fence with these."
 		},
 		"candelabra_stone_recipe" : {
 			"recipe_name" : "Stone Candelabra",
@@ -84,6 +89,10 @@
 			"torch_iron_ghost" : {
 				"description" : "This torch is totally metal",
 				"name" : "Iron Torch"
+			},
+			"torch_steel_ghost" : {
+				"description" : "More like a mini-brazier on a stick",
+				"name" : "Steel Torch"
 			},
 			"candelabra_stone_ghost" : {
 				"description" : "A triple candle holder",
