@@ -42,29 +42,10 @@
       },
       "light": {
          "type": "light",
-         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
+         "light": "/lodewall_lights/data/horde/animatedlights/fire/candle_large.animatedlight.json",
          "transforms": {
             "x":-0.7,
             "y":3.3,
-            "z":0.5
-        },
-		"shadows": true
-	  },
-	  "light_left": {
-         "type": "light",
-         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
-         "transforms": {
-            "x":-0.2,
-            "y":3.0,
-            "z":0.5
-        }
-	  },
-	  "light_right": {
-         "type": "light",
-         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
-         "transforms": {
-            "x":-1.2,
-            "y":3.0,
             "z":0.5
         }
 	  }		

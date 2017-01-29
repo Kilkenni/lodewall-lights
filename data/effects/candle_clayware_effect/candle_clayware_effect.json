@@ -7,7 +7,7 @@
          "loop": true,
          "transforms": {
             "x":-0.7,
-            "y":0.4,
+            "y":0.5,
             "z":0.5,
             "rx":90,
             "ry":0,
@@ -16,11 +16,11 @@
       },
       "cubemitter_glow": {
          "type": "cubemitter",
-         "cubemitter": "/stonehearth/data/horde/particles/lamp/oil_lamp_glow.cubemitter.json",
+         "cubemitter": "/lodewall_lights/data/horde/particles/fire/torch_glow.cubemitter.json",
          "loop": true,
          "transforms": {
             "x":-0.7,
-            "y":0.8,
+            "y":0.5,
             "z":0.5,
             "rx":90,
             "ry":0,
@@ -29,10 +29,10 @@
       },
      "light": {
          "type": "light",
-         "light": "animatedlights/lamp/oil_lamp.animatedlight.json",
+         "light": "/lodewall_lights/data/horde/animatedlights/fire/candle_small.animatedlight.json",
          "transforms": {
             "x":-0.7,
-            "y":0.8,
+            "y":0.6,
             "z":0.5
         },
 		"shadows": true

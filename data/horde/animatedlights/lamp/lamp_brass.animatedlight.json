@@ -14,14 +14,14 @@
         },
         "over_lifetime": {
             "kind": "CONSTANT",
-            "values": [0.45]
+            "values": [0.8]
         }
 
     },
     "color": {
         "start": {
             "kind": "CONSTANT",
-            "values": [1.0, 0.91, 0.32]
+            "values": [1.0, 0.82, 0.32]
         }
     },
     "radius": {
