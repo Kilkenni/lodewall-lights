@@ -1,28 +1,28 @@
 {
    "type": "entity",
-   "mixins": "file(torch_wood_ghost.json)",
+   "mixins": "file(torch_iron_ghost.json)",
    "components": {
       "region_collision_shape": {
          "region": [
             {
                "min": { "x": 0, "y": 0, "z": 0 },
-               "max": { "x": 1, "y": 3, "z": 1 }
+               "max": { "x": 1, "y": 2, "z": 1 }
             }
          ]
       },
       "stonehearth:lamp": {
-         "light_effect": "/lodewall_lights/data/effects/torch_wood_effect",
+         "light_effect": "/lodewall_lights/data/effects/torch_iron_effect",
 		 "light_policy": "always_on"
       },
       "stonehearth:entity_forms": {
-         "iconic_form": "file(torch_wood_iconic.json)",
-         "ghost_form": "file(torch_wood_ghost.json)",
+         "iconic_form": "file(torch_iron_iconic.json)",
+         "ghost_form": "file(torch_iron_ghost.json)",
          "placeable_on_walls": true
       }
    },
    "entity_data": {
       "stonehearth:net_worth": {
-         "value_in_gold": 7,
+         "value_in_gold": 22,
          "rarity": "common",
          "shop_info": {
             "buyable": true,

@@ -1,0 +1,28 @@
+{
+   "mixins": "stonehearth:mixins:placed_object",
+   "components": {
+      "model_variants": {
+         "default": {
+            "models": [
+               "file(torch_iron.qb)"
+            ]
+         }
+      },
+      "mob": {
+         "model_origin": { "x": -0.5, "y": 0, "z": 0.5 },
+         "region_origin": { "x": 0.5, "y": 0, "z": 0.5 }
+      },
+      "render_info": {
+         "scale": 0.1
+      }
+   },
+   "entity_data": {
+      "stonehearth:catalog": {
+         "display_name": "i18n(lodewall_lights:entities.decoration.torch_iron_ghost.name)",
+         "description": "i18n(lodewall_lights:entities.decoration.torch_iron_ghost.description)",
+         "icon": "file(torch_iron.png)",
+         "category": "decoration",
+         "material_tags": "light_source crafted iron stockpile_decoration"
+      }
+   }
+}

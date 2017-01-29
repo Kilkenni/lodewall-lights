@@ -35,6 +35,11 @@
 			"description" : "With this one around any hearthling will feel 20% more confident.",
 			"flavor" : "A small spark for a man, a glorious radiance for the community."
 		},
+		"torch_iron_recipe" : {
+			"recipe_name" : "Iron Torch",
+			"description" : "Forged by skilled blacksmiths, this one is perfect for dark dungeons. It uses a small reservoir of oil to fuel the fire.",
+			"flavor" : "'What does lurk there in the night? It may be a mindless wight!'"
+		},
 		"candelabra_stone_recipe" : {
 			"recipe_name" : "Stone Candelabra",
 			"description" : "A finely chiseled holder featuring three wax candles.",
@@ -75,6 +80,10 @@
 			"torch_wood_ghost" : {
 				"description" : "A simple torch made of wood",
 				"name" : "Wooden Torch"
+			},
+			"torch_iron_ghost" : {
+				"description" : "This torch is totally metal",
+				"name" : "Iron Torch"
 			},
 			"candelabra_stone_ghost" : {
 				"description" : "A triple candle holder",

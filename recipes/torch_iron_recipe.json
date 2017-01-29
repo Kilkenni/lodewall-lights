@@ -1,0 +1,25 @@
+{
+	"type" : "recipe",
+
+	"work_units" : 5,
+	"recipe_name" : "i18n(lodewall_lights:recipes.torch_iron_recipe.recipe_name)",
+	"description" : "i18n(lodewall_lights:recipes.torch_iron_recipe.description)",
+	"flavor" : "i18n(lodewall_lights:recipes.torch_iron_recipe.flavor)",
+	"portrait" : "/lodewall_lights/recipes/torch_iron.png",
+	"workshop" : "stonehearth:blacksmith:workbench",
+	"level_requirement" : 2,
+	"ingredients" : [
+		{
+         "uri": "stonehearth:refined:iron_ingot",
+         "count": 1
+		},
+		{
+         "uri": "stonehearth:refined:thread",
+         "count": 1
+		}
+	],
+	"produces" : [{
+			"item" : "lodewall_lights:torch_iron"
+		}
+	]
+}

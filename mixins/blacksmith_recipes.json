@@ -16,6 +16,9 @@
 				},
 				"brazier_iron" : {
 					"recipe" : "file(/recipes/brazier_iron_recipe.json)"
+				},
+				"torch_iron" : {
+					"recipe" : "file(/recipes/torch_iron_recipe.json)"
 				}
 			}
 		}

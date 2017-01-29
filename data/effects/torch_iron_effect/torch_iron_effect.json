@@ -1,0 +1,49 @@
+{
+   "type" : "effect",
+   "tracks": {
+      "cubemitter": {
+         "type": "cubemitter",
+         "cubemitter": "/lodewall_lights/data/horde/particles/fire/torch_fire.cubemitter.json",
+         "loop": true,
+         "transforms": {
+            "x":-0.5,
+            "y":1.35,
+            "z":0.5,
+            "rx":90,
+            "ry":0,
+            "rz":0
+         }
+      },
+      "cubemitter_glow": {
+         "type": "cubemitter",
+         "cubemitter": "/lodewall_lights/data/horde/particles/fire/torch_glow.cubemitter.json",
+         "loop": true,
+         "transforms": {
+            "x":-0.5,
+            "y":1.4,
+            "z":0.5,
+            "rx":90,
+            "ry":0,
+            "rz":0
+         }
+      },
+	  "crackle_sound": {
+         "type": "sound_effect",
+         "loop" : true,
+         "start_time": 0,
+         "min_distance": 15,
+         "falloff" : 2.5,
+         "volume": 6,
+         "track" : "stonehearth:sounds:firepit_loop_sound"        
+      },
+     "light": {
+         "type": "light",
+         "light": "/lodewall_lights/data/horde/animatedlights/fire/torch_iron.animatedlight.json",
+         "transforms": {
+            "x":-0.5,
+            "y":1.5,
+            "z":0.5
+        }
+     }
+   }
+}
