@@ -19,7 +19,7 @@
    "entity_data": {
       "stonehearth:catalog": {
          "display_name": "i18n(lodewall_lights:entities.decoration.candle_clayware_ghost.name)",
-         "description": "i18n(lodewall-lights:entities.decoration.candle_clayware_ghost.description)",
+         "description": "i18n(lodewall_lights:entities.decoration.candle_clayware_ghost.description)",
          "icon": "file(candle_clayware.png)",
          "category": "decoration",
          "material_tags": "light_source crafted clay stockpile_decoration"
